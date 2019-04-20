@@ -1,0 +1,97 @@
+body{
+	background-image: url("../img/ch1.jpg");
+}
+
+.lizardo{
+	text-align: center;
+}
+.fuego{
+	text-align: justify;
+	font-size: 20px;
+}
+.logo{
+	text-align: center;
+}
+.parrafo_1{
+	text-align: justify;
+	display: inline;
+	background-color: transparent;
+	font-size: 30px;
+	
+}
+.titulo{
+	text-align: center;
+  background-color: yellow;
+  margin: 10px 400px; 
+}
+.pokedex{
+	text-align: center;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: inline-flex;
+  color: white;
+  text-align: center;
+  padding: 30px;
+  text-decoration: none;
+  font-family: 'Pacifico', cursive;
+}
+
+li a:hover {
+  background-color: #111111;
+}
+
+footer {
+  list-style-type: none;
+  margin: 40px;
+  padding: 0;
+  overflow: hidden;
+  background-color: #8C8C8D;
+
+}
+a {
+  display: inline-flex;
+  color: black;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+}
+p {
+  display: line;
+  color: black;
+  text-align: center;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.titulos{
+	text-align: center;
+	background: #E6E83D;
+	margin: 0 300px;
+}
+.grid-item{
+	display: inline-grid;
+	font-size: 20px;
+	background-color: white;
+	margin: 0px 460px;
+}
+
+.ppp{
+	height: 285px; 
+}
+.pp1{
+  background-color:white;
+  margin: 10px 100px; 
+}

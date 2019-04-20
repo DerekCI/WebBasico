@@ -1,0 +1,13 @@
+@media screen and (max-width:1800px) {
+	.carta{
+		margin: 50px 10px; 
+		height: 400px;
+		width: 200px;
+	}
+	.titulotcg{
+		text-align: center;
+		background-color: yellow;
+		margin: 10px 400px 0 350px;
+		text-align: center;
+	}
+}

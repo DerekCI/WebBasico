@@ -1,0 +1,19 @@
+@media screen and (max-width:1800px) {
+	table, th, td {
+	  border: 2px solid black;
+	  border-collapse: collapse;
+	  margin: 10px 0px;
+	}
+	table{
+		margin: 10px 350px ;
+	}
+	.p1{
+		background-color: yellow;
+		margin: 0 400px 0 350px;
+		text-align: center;
+	}
+	.parrafo{
+		background-color: white;
+		margin: 0 400px;
+	}
+}
